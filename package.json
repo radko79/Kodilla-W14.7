@@ -1,0 +1,25 @@
+{
+  "name": "14.7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.min.js",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radko79/Kodilla-W14.7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radko79/Kodilla-W14.7/issues"
+  },
+  "homepage": "https://github.com/radko79/Kodilla-W14.7#readme"
+}
